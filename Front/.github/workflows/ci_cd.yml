@@ -1,0 +1,35 @@
+name: Deploy to S3
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código fuente
+        uses: actions/checkout@v2
+
+      - name: Configurar credenciales de AWS
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_KEY_ID }} 
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY }} 
+          aws-region: eu-central-1
+
+      - name: Instalar dependencias
+        run: npm i
+
+      - name: Construir la aplicación en producción
+        run: npm run build --verbose
+
+      - name: Ver contenido del directorio de construcción
+        run: ls
+
+      - name: Desplegar en S3
+        run: |
+          aws s3 cp dist s3://maquinaria-pro-g3 --recursive
+

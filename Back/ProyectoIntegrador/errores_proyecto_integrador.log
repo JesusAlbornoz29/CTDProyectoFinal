@@ -1,0 +1,511 @@
+[2023-10-2409:13:28] [ INFO ] [ProductoService:26] se guardo el producto con exito
+[2023-10-2409:17:20] [ INFO ] [ProductoService:26] se guardo el producto con exito
+[2023-10-2409:21:03] [ INFO ] [ProductoService:26] se guardo el producto con exito
+[2023-10-2409:22:19] [ INFO ] [ProductoService:26] se guardo el producto con exito
+[2023-10-3023:46:32] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-10-3113:12:22] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-10-3119:00:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0106:59:25] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:02:36] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:02:49] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:03:21] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:04:32] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:07:14] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:09:10] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0107:09:19] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:14:40] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:26:30] [ INFO ] [ProductServiceImpl:68] se encontro el producto
+[2023-11-0107:45:04] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0108:03:26] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0108:03:29] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0108:03:30] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0108:03:31] [ ERROR] [ProductServiceImpl:71] no existe este producto
+[2023-11-0108:41:26] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0108:44:10] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0108:45:23] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0108:50:05] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0108:52:46] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0108:54:33] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:13:16] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:23:43] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:29:17] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:34:57] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:35:24] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:36:15] [ INFO ] [ProductServiceImpl:55] Producto eliminado correctamente
+[2023-11-0110:36:26] [ ERROR] [ProductServiceImpl:69] no existe este producto
+[2023-11-0110:38:48] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0110:38:57] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0110:41:57] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-0110:57:35] [ INFO ] [CharacteristicServiceImpl:25] Se guardará la característica del producto
+[2023-11-0111:03:25] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0111:03:36] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0111:04:23] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0111:06:27] [ INFO ] [ProductServiceImpl:55] Producto eliminado correctamente
+[2023-11-0111:07:13] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-0111:07:44] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0111:09:24] [ INFO ] [CharacteristicServiceImpl:25] Se guardará la característica del producto
+[2023-11-0122:55:48] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0122:56:03] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0122:56:16] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0122:57:08] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0122:57:14] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0122:57:27] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0122:57:34] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0123:36:17] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0123:37:28] [ ERROR] [ProductServiceImpl:69] no existe este producto
+[2023-11-0123:37:47] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0123:56:21] [ INFO ] [ProductImageServiceImpl:34] Se va a actualizar la imagen
+[2023-11-0200:07:38] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0200:08:03] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0200:09:40] [ ERROR] [ProductServiceImpl:69] no existe este producto
+[2023-11-0200:09:47] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0200:09:51] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0200:11:02] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0200:11:02] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0200:11:31] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0206:31:22] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:31:22] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:31:30] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0206:33:20] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0206:50:24] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:50:24] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:52:32] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:52:32] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:56:52] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:56:52] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:56:57] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:56:57] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:57:56] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:57:56] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:58:11] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0206:58:17] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0206:58:22] [ ERROR] [ProductServiceImpl:46] No existe este producto
+[2023-11-0206:58:39] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:58:39] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:58:48] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0206:59:00] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:59:00] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0206:59:10] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0207:04:05] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:04:05] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:20:53] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:20:53] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:21:02] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0207:22:05] [ INFO ] [SpecServiceImpl:25] Se guardará la característica del producto
+[2023-11-0207:26:23] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:26:23] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0207:26:29] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0208:21:37] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0208:21:37] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:16:25] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:16:25] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:55:24] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:55:24] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:57:29] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:57:29] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:59:53] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0209:59:53] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0210:02:06] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0210:02:06] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0210:45:13] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0210:45:13] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0212:53:21] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0212:53:21] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0212:55:40] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0212:55:40] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0213:11:33] [ INFO ] [ProductServiceImpl:55] Producto eliminado correctamente
+[2023-11-0214:58:17] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0214:58:17] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:28:20] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:28:20] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:38:15] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:38:15] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:38:52] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:38:52] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:40:47] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:40:47] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:40:48] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:40:48] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:44:23] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:44:23] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:44:23] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:49:27] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:49:27] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0215:49:27] [ INFO ] [ProductImageServiceImpl:28] Se guardará la imagen
+[2023-11-0610:04:05] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:07:08] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:10:09] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0610:10:28] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:12:04] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:14:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0610:15:47] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:15:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:15:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:15:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:15:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0610:53:35] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0610:55:27] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0610:56:22] [ INFO ] [ProductServiceImpl:66] se encontro el producto
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 8
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 3
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 5
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 4
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 6
+[2023-11-0610:56:22] [ WARN ] [ProductImageServiceImpl:41] Se ha eliminado la imagen con ID: 7
+[2023-11-0610:56:22] [ INFO ] [ProductServiceImpl:43] Se actualizó el producto
+[2023-11-0620:55:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0620:55:03] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0620:55:03] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0621:01:59] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0621:01:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0622:12:17] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0622:12:17] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0622:15:23] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0622:15:23] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0718:30:46] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:09:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:09:48] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:19:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:19:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:20:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:20:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:20:10] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:20:10] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:29:21] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:29:21] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:29:26] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:29:26] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:06] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:06] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:09] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:09] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:12] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0719:50:12] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0920:50:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-0920:50:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0920:50:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-0921:04:10] [ INFO ] [ProductServiceImpl:75] se encontro el producto
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1009:14:56] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1500:05:08] [ ERROR] [ProductServiceImpl:78] no existe este producto
+[2023-11-1500:05:14] [ INFO ] [ProductServiceImpl:75] se encontro el producto
+[2023-11-1500:07:46] [ INFO ] [ProductServiceImpl:52] Se actualizó el producto
+[2023-11-1500:11:30] [ INFO ] [ProductServiceImpl:52] Se actualizó el producto
+[2023-11-1500:49:12] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1500:49:12] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1500:52:46] [ INFO ] [ProductServiceImpl:62] Se actualizó el producto
+[2023-11-1500:53:53] [ INFO ] [ProductServiceImpl:62] Se actualizó el producto
+[2023-11-1501:25:33] [ INFO ] [ProductServiceImpl:67] Se actualizó el producto
+[2023-11-1501:25:53] [ INFO ] [ProductServiceImpl:67] Se actualizó el producto
+[2023-11-1501:27:57] [ INFO ] [ProductServiceImpl:67] Se actualizó el producto
+[2023-11-1501:31:32] [ INFO ] [ProductServiceImpl:91] se encontro el producto
+[2023-11-1502:55:24] [ INFO ] [ProductServiceImpl:90] se encontro el producto
+[2023-11-1502:55:53] [ INFO ] [ProductServiceImpl:67] Se actualizó el producto
+[2023-11-1502:57:28] [ INFO ] [ProductServiceImpl:68] Se actualizó el producto
+[2023-11-1502:57:50] [ INFO ] [ProductServiceImpl:68] Se actualizó el producto
+[2023-11-1502:58:57] [ INFO ] [ProductServiceImpl:68] Se actualizó el producto
+[2023-11-1503:14:09] [ INFO ] [ProductServiceImpl:73] Se actualizó el producto
+[2023-11-1503:15:28] [ INFO ] [ProductServiceImpl:73] Se actualizó el producto
+[2023-11-1503:15:40] [ INFO ] [ProductServiceImpl:73] Se actualizó el producto
+[2023-11-1503:19:55] [ INFO ] [ProductServiceImpl:74] Se actualizó el producto
+[2023-11-1503:28:21] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:29:50] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1503:29:50] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1503:29:50] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1503:29:57] [ INFO ] [ProductServiceImpl:109] se encontro el producto
+[2023-11-1503:31:48] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:33:18] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:33:42] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:45:35] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:45:44] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:46:20] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:46:56] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1503:47:51] [ INFO ] [ProductServiceImpl:81] Se actualizó el producto
+[2023-11-1518:33:26] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1518:36:13] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1518:39:11] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1518:42:55] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1518:46:14] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1518:49:02] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1519:17:14] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1519:29:31] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1520:01:18] [ ERROR] [ProductServiceImpl:108] no existe este producto
+[2023-11-1520:01:20] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1520:01:20] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1520:01:20] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1520:01:23] [ INFO ] [ProductServiceImpl:105] se encontro el producto
+[2023-11-1521:02:03] [ INFO ] [ProductTypeServiceImpl:24] Se guardará el tipo de producto
+[2023-11-1521:32:18] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1521:32:18] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1521:32:18] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1521:34:25] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-1709:26:49] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1709:26:49] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1709:26:49] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1710:02:45] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1710:02:45] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1711:02:10] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1711:02:10] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1711:02:10] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1713:48:03] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1713:48:03] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1713:48:03] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1714:59:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1714:59:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:11:58] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:11:58] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:41:38] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1716:41:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:41:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:55:48] [ WARN ] [GlobalExceptionHandler:23] Recurso no encontrado: No se encontraron reservas para el usuario con el ID: 1
+[2023-11-1716:56:46] [ INFO ] [ProductServiceImpl:103] se encontro el producto
+[2023-11-1716:57:35] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:57:35] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1716:57:42] [ INFO ] [ProductServiceImpl:103] se encontro el producto
+[2023-11-1717:17:30] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1717:17:30] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1717:17:30] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1717:22:13] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1717:22:13] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1719:14:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1719:14:38] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1719:15:13] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-1719:24:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1719:24:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1720:33:17] [ INFO ] [ProductServiceImpl:103] se encontro el producto
+[2023-11-1720:38:17] [ INFO ] [ProductServiceImpl:103] se encontro el producto
+[2023-11-1723:56:06] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1723:56:06] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1723:56:06] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1723:58:07] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1723:58:07] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1917:32:31] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1917:33:23] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-1919:11:04] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1919:18:42] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-1919:23:00] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2017:02:23] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2017:03:04] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2019:59:41] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2020:02:16] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:00:59] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:00:59] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:09:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:15:00] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:22:42] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:37:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:37:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:37:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:37:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:37:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:47:19] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2210:47:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:47:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:47:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:47:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:47:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2210:48:34] [ INFO ] [ProductServiceImpl:88] Producto eliminado correctamente
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:02:53] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:03:41] [ INFO ] [ProductServiceImpl:88] Producto eliminado correctamente
+[2023-11-2211:06:15] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:06:15] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:06:15] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:06:15] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:06:15] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:11:44] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2211:11:44] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:11:44] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:11:44] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:11:44] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:11:44] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:22:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:29:36] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2211:29:36] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:29:36] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:29:36] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:29:36] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:29:36] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:34:40] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2211:34:40] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:34:40] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:34:40] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:34:40] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2211:34:40] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2213:05:22] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2213:09:49] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2213:13:50] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2213:13:57] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2213:35:47] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2219:44:33] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2219:44:33] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2219:44:33] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2219:44:33] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2219:44:33] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2219:44:33] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2219:45:36] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2219:47:12] [ INFO ] [ProductServiceImpl:88] Producto eliminado correctamente
+[2023-11-2219:59:56] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:05:51] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:07:30] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:14:40] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:20:08] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:25:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2220:28:19] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2220:58:40] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2221:00:05] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2221:00:05] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2221:05:14] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:06:10] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:07:23] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:11:10] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:12:26] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:12:50] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:13:01] [ INFO ] [ProductServiceImpl:86] Se actualizó el producto
+[2023-11-2221:14:53] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:16:45] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:20:41] [ INFO ] [ProductServiceImpl:106] Se actualizó el producto
+[2023-11-2221:22:41] [ INFO ] [ProductServiceImpl:109] Se actualizó el producto
+[2023-11-2221:25:08] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:25:19] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2221:25:31] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2221:25:36] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:25:39] [ INFO ] [ProductServiceImpl:99] se encontro el producto
+[2023-11-2221:26:00] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:26:22] [ INFO ] [ProductServiceImpl:75] Se actualizó el producto
+[2023-11-2221:28:50] [ INFO ] [ProductServiceImpl:110] Se actualizó el producto
+[2023-11-2221:29:00] [ INFO ] [ProductServiceImpl:110] Se actualizó el producto
+[2023-11-2221:35:52] [ INFO ] [ProductServiceImpl:108] Se actualizó el producto
+[2023-11-2221:36:01] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2221:36:28] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2221:37:06] [ INFO ] [ProductServiceImpl:108] Se actualizó el producto
+[2023-11-2221:37:27] [ INFO ] [ProductServiceImpl:108] Se actualizó el producto
+[2023-11-2221:43:36] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2221:44:02] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2221:44:02] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2221:45:33] [ INFO ] [ProductServiceImpl:108] Se actualizó el producto
+[2023-11-2221:45:56] [ INFO ] [ProductServiceImpl:121] Producto eliminado correctamente
+[2023-11-2221:46:01] [ INFO ] [ProductServiceImpl:121] Producto eliminado correctamente
+[2023-11-2307:35:05] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:35:29] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:35:31] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:35:42] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:36:57] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:52:16] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:52:46] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2307:57:41] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2307:57:41] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2307:59:03] [ INFO ] [ProductServiceImpl:121] Producto eliminado correctamente
+[2023-11-2313:44:08] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2314:40:07] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2314:40:09] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2316:11:00] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2316:13:19] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2316:17:57] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2317:05:01] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2317:30:49] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2318:24:57] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2318:36:04] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2322:01:47] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2414:50:54] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2414:50:54] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2414:50:54] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2414:51:02] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2416:41:19] [ INFO ] [BrandServiceImpl:25] Se guardará la marca de producto
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:19] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:41:25] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2416:55:51] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-11-2416:57:32] [ INFO ] [ProductImageServiceImpl:26] Se guardará la imagen
+[2023-12-0413:22:08] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:22:11] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:22:14] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:22:19] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:23:19] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:23:28] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0413:23:41] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:41:05] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:49:46] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:49:53] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:50:01] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:50:07] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:50:13] [ INFO ] [ProductServiceImpl:132] se encontro el producto
+[2023-12-0419:51:20] [ INFO ] [ProductServiceImpl:132] se encontro el producto
